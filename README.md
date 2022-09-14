@@ -25,9 +25,3 @@ Furthermore, the script make a file with PHPUnit tests, for each new endpoint ge
 $ php console api:generate:endpoints [table-name]
 OK - Generated endpoints for entity: [table-name]
 ```
-
-**This package is for exclusive use of this [Slim 4 - Api Skeleton](https://github.com/maurobonfietti/slim4-api-skeleton) project.**
-
-*Work In Progress...*
-**Work In Progress...**
-***Work In Progress ;-)***
