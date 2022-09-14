@@ -1,14 +1,7 @@
 {
-    "name": "maurobonfietti/slim4-api-skeleton-crud-generator",
-    "description": "CRUD Generator for Slim 4 - Api Skeleton.",
+    "name": "glenskie16/api-skeleton-crud-generator",
+    "description": "CRUD Generator for Slim 4",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Mauro Bonfietti",
-            "email": "mauro.bonfietti@gmail.com",
-            "homepage": "https://github.com/maurobonfietti"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "App\\": "src/",
